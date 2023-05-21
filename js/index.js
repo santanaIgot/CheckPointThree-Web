@@ -15,3 +15,4 @@ inputNome.addEventListener("keyup", () =>{
 })
 
 const inputSobrenome = document.querySelector("#idSobrenome");
+const labelSobrenome = document.querySelector("label[for='idSobrenome']")

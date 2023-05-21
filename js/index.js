@@ -1,0 +1,1 @@
+const inputNome = document.querySelector("#idNome");

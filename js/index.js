@@ -49,3 +49,7 @@ inputEmail.addEventListener("keyup", () =>{
         labelEmail.setAttribute("style", "color: green;");
     }
 })
+
+
+const inputSenha = document.querySelector("#idSenha");
+const labelSenha = document.querySelector("label[for='idSenha']")
